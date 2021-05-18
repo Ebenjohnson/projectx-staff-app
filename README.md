@@ -1,4 +1,4 @@
-# Project X (Staff Pamel)
+# Project X (Staff Panel)
 
 Backend dashboard for the staffs
 
